@@ -1,5 +1,5 @@
 # TensorFlow in Practice Specialization
-Repository for the [Coursera specialisation](https://www.coursera.org/specializations/tensorflow-in-practice), "TensorFlow in Practice Specialization".
+Repository for the [Coursera specialisation](https://www.coursera.org/specializations/tensorflow-in-practice), "TensorFlow in Practice Specialization", offered by deeplearning.ai on Coursera and taught by Laurence Moroney
 
 The repository contains .ipynb notebooks.
 The specialization consists of the following courses:
